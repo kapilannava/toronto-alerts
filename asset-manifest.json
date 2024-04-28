@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/toronto-alerts/static/css/main.e6c13ad2.css",
+    "main.js": "/toronto-alerts/static/js/main.922d1730.js",
+    "static/js/453.68693753.chunk.js": "/toronto-alerts/static/js/453.68693753.chunk.js",
+    "index.html": "/toronto-alerts/index.html",
+    "main.e6c13ad2.css.map": "/toronto-alerts/static/css/main.e6c13ad2.css.map",
+    "main.922d1730.js.map": "/toronto-alerts/static/js/main.922d1730.js.map",
+    "453.68693753.chunk.js.map": "/toronto-alerts/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.922d1730.js"
+  ]
+}
